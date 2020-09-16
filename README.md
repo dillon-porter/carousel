@@ -1,5 +1,7 @@
 Scrimba Project building an Image Carousel
 
+DEMO: https://dillon-porter.github.io/carousel/
+
 Built using HTML, CSS , and JavaScript without using a carousel API. 
 
 In CSS we used @Keyframes to add a small animation through image transitions. 

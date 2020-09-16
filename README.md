@@ -18,4 +18,4 @@ Some tweaks I added to this project:
  - I centered the carousel to the middle of the page.
  - Added an autoplay feature of the images to 5 seconds.
  - Nav dots/indicators on the images to show users which image they are currently on.
- - This feature was added by adding the indicators function to the sliderposition[].
+ - This feature was added by adding the indicators function to the sliderposition[] similar to the previous and next buttons.
